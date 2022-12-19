@@ -1,0 +1,73 @@
+/* For styling the rendered Markdown */
+* {
+direction:rtl;
+font-family: 'b zar' !important;
+font-size: 15pt !important;
+}
+
+div#rendered-md > h1:first-child {
+font-family: 'b zar' !important;	
+    /* Title element. */
+}
+
+/* Block elements: */
+abbr {
+}
+
+blockquote {
+}
+
+caption {
+}
+
+dd {
+}
+
+dl {
+}
+
+dt {
+}
+
+hr {
+}
+
+li {
+}
+
+ol {
+}
+
+p {
+}
+
+pre {
+}
+
+table {
+	font-family: 'b zar' !important;
+}
+
+tbody {
+	font-family: 'b zar' !important;
+}
+
+td {
+	font-family: 'b zar' !important;
+}
+
+th {
+	font-family: 'b zar' !important;
+}
+
+thead {
+	font-family: 'b zar' !important;
+}
+
+tr {
+	font-family: 'b zar' !important;
+}
+
+ul {
+	font-family: 'b zar' !important;
+}

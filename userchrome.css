@@ -1,0 +1,5 @@
+/* For styling the entire Joplin app (except the rendered Markdown, which is defined in `userstyle.css`) */
+* {
+font-family: tahoma, Robot !important;
+direction:rtl;
+}
